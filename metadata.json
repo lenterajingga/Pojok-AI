@@ -1,0 +1,7 @@
+{
+  "name": "Blogger AI Chat Assistant",
+  "description": "A sophisticated, embeddable AI chat widget powered by Gemini, designed specifically for integration into Blogger and other CMS platforms.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
